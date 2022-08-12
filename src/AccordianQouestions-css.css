@@ -1,0 +1,23 @@
+.AQ-article{
+    width:fit-content;
+    height: fit-content;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid gray;
+    box-shadow: 2px 2px lightgray;
+}
+header{
+    border-radius: 13px;
+    display: flex;
+    width:320px;
+    height: 40px;
+    /* border: 2px solid gray; */
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px ;
+}
+p{
+    width: fit-content;
+    margin: 20px;
+}
